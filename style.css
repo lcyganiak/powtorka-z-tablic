@@ -1,0 +1,22 @@
+
+
+/* 
+p {
+    animation-name: color;
+    animation-duration: 15s;
+}
+
+
+@keyframes color {
+    from {
+        color: black;
+    } to {
+        color: red;
+    }
+} */
+
+p {
+    color: coral !important;
+}
+
+
